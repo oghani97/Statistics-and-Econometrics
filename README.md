@@ -22,7 +22,7 @@ statistics/
   problem-sets/   the weekly problem sets plus my worked attempts
   notes/          my own summaries and the topic notes written with Claude
 econometrics/     same structure, for the second term
-project/          my own project work. No AI help allowed (see below)
+project/          project work, plus AI-USE-LOG.md for the AI Declaration and viva
 exam-prep/        formula sheets, past papers, mock questions
 PROGRESS.md       topic tracker: what's covered, how confident I am, what to revisit
 ```
@@ -33,9 +33,9 @@ PROGRESS.md       topic tracker: what's covered, how confident I am, what to rev
 - Problem sets: share an attempt first. Claude checks the working and gives hints before it gives full solutions.
 - Before an exam, ask for a mock paper built from `PROGRESS.md` weak spots.
 
-## The project: no AI
+## The project and AI
 
-The 2026–27 project instructions say: "You cannot use any AI tool for any of the project stages."
-That covers choosing a topic, finding data, analysis and writing up. Submissions are checked for AI use,
-and a high score leads to a viva. Claude does not help with the project in this repo.
-Exam revision and the problem sets are fine to do with Claude.
+The printed 2026–27 instructions ban AI on the project, but there's an exception this year:
+AI use is allowed, as long as I pass an oral viva explaining my findings. So Claude supports the project
+as a tutor: I make the decisions and write the report; Claude explains, critiques and quizzes.
+Every use of AI goes in `project/AI-USE-LOG.md`.

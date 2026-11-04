@@ -26,7 +26,10 @@ Confidence: 1 = lost, 3 = can do standard questions, 5 = could teach it.
 
 ## Project (30%)
 
-Not tracked here: no AI help allowed on the project.
+- AI allowed this year with an oral viva. Log AI use in `project/AI-USE-LOG.md`.
+- Topic: TBC
+- Dataset: TBC
+- Proposal submitted: no
 
 ## Key dates
 
