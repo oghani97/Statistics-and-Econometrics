@@ -6,9 +6,11 @@ Study repository for the combined Statistics & Econometrics module, worked throu
 
 | Component | Weight | When |
 |---|---|---|
-| Statistics exam | 30% | After the 11 weeks of statistics lectures |
-| Econometrics exam | 30% | After the 11 weeks of econometrics lectures |
-| Applied data project | 40% | Due later in the year |
+| Statistics exam | TBC | After the 11 weeks of statistics lectures |
+| Econometrics exam | TBC | After the 11 weeks of econometrics lectures |
+| Applied data project | 30% (per the 2026–27 project instructions) | Proposal 15 Feb 2027 (optional); final 26 Apr 2027 |
+
+The project instructions give the project as 30%, not the 40% first noted here. Confirm the exam weights.
 
 Macroeconomics follows later in the year (a separate module, not covered here).
 
@@ -20,10 +22,7 @@ statistics/
   problem-sets/   the weekly problem sets plus my worked attempts
   notes/          my own summaries and the topic notes written with Claude
 econometrics/     same structure, for the second term
-project/
-  data/           raw and cleaned datasets
-  code/           analysis scripts
-  drafts/         write-up drafts
+project/          my own project work. No AI help allowed (see below)
 exam-prep/        formula sheets, past papers, mock questions
 PROGRESS.md       topic tracker: what's covered, how confident I am, what to revisit
 ```
@@ -33,3 +32,10 @@ PROGRESS.md       topic tracker: what's covered, how confident I am, what to rev
 - Drop the lecture slides and problem sets into the right folder, then ask about them.
 - Problem sets: share an attempt first. Claude checks the working and gives hints before it gives full solutions.
 - Before an exam, ask for a mock paper built from `PROGRESS.md` weak spots.
+
+## The project: no AI
+
+The 2026–27 project instructions say: "You cannot use any AI tool for any of the project stages."
+That covers choosing a topic, finding data, analysis and writing up. Submissions are checked for AI use,
+and a high score leads to a viva. Claude does not help with the project in this repo.
+Exam revision and the problem sets are fine to do with Claude.

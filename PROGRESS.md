@@ -2,7 +2,7 @@
 
 Confidence: 1 = lost, 3 = can do standard questions, 5 = could teach it.
 
-## Statistics (30% exam after week 11)
+## Statistics (exam after week 11)
 
 | Week | Topic | Problem set done | Confidence | To revisit |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ Confidence: 1 = lost, 3 = can do standard questions, 5 = could teach it.
 | 10 | | | | |
 | 11 | | | | |
 
-## Econometrics (30% exam after week 11)
+## Econometrics (exam after week 11)
 
 | Week | Topic | Problem set done | Confidence | To revisit |
 |---|---|---|---|---|
 | 1–11 | Not started | | | |
 
-## Project (40%)
+## Project (30%)
 
-- Topic: TBC
-- Dataset: TBC
-- Deadline: TBC
+Not tracked here: no AI help allowed on the project.
 
 ## Key dates
 
 - Statistics exam: TBC
 - Econometrics exam: TBC
-- Project deadline: TBC
+- Project proposal (optional): 15 Feb 2027
+- Project implementation class: 1 Mar 2027
+- Project final submission: 26 Apr 2027
