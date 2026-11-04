@@ -27,7 +27,7 @@ Confidence: 1 = lost, 3 = can do standard questions, 5 = could teach it.
 ## Project (30%)
 
 - AI allowed this year with an oral viva. Log AI use in `project/AI-USE-LOG.md`.
-- Topic: TBC
+- Topic: initial idea, UK (England) school attainment and area characteristics (income/deprivation, immigration, crime, funding, ethnicity). Still needs narrowing to one question.
 - Dataset: TBC
 - Proposal submitted: no
 
